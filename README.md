@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shao Gao. 
 - 👀 I’m interested in Mechanics.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on interesting things
 - 📫 My email address is gsjbill@hotmail.com
 
